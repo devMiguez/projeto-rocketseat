@@ -12,9 +12,9 @@ function toggleMode() {
 
   if(html.classList.contains("light")) {
     img.setAttribute("src", "assets/avatar-light.png")
-    img.setAttribute("alt", "João no carro com cara de sério")
+    img.setAttribute("alt", "Foto de perfil")
   } else {
     img.setAttribute("src", "assets/avatar-dark.png")
-    img.setAttribute("alt", "Foto de perfil de João Miguez no espelho")
+    img.setAttribute("alt", "Foto de perfil")
   }
 }
