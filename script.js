@@ -14,7 +14,7 @@ function toggleMode() {
     img.setAttribute("src", "assets/avatar-light.png")
     img.setAttribute("alt", "João no carro com cara de sério")
   } else {
-    img.setAttribute("src", "assets/avatar.png")
+    img.setAttribute("src", "assets/avatar-dark.png")
     img.setAttribute("alt", "Foto de perfil de João Miguez no espelho")
   }
 }
