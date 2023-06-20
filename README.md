@@ -39,14 +39,12 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
+## 📚 O que eu achei e aprendi?
+
+<p>Eu achei incrível participar desse projeto, aprimorei minhas habilidades em HTML e CSS e adquiri um conhecimento em JavaScript. Além de aprender a aplicar o design do figma corretamente em código. E tambem pude ter uma visão sobre o que é e como usar o controle de versão GIT. E isso tudo em aulas totalmente gratuitas disponibilizadas pela Rockeatseat.❤️<p>
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat :wave: [Participe da comunidade rockeatseat!](https://discord.gg/rocketseat)
